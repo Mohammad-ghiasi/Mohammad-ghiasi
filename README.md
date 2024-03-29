@@ -19,7 +19,10 @@ I love turning ideas into reality through code and design. With a keen eye for d
 - Creativity: I enjoy thinking outside the box and coming up with innovative solutions.
 - Team Player: I thrive in collaborative environments and believe that great things are achieved through teamwork.
 - Passion: I am deeply passionate about frontend development and am always eager to learn and improve.
-Let's Connect
-- [GitHub: ](https://github.com/Mohammad-ghiasi)
-- [LinkedIn: ](https://www.linkedin.com/in/mohammad-ghiasi-2383432bb/)
+  
+### Let's Connect
+- GitHub: [[GitHub](https://github.com/Mohammad-ghiasi) ](https://github.com/Mohammad-ghiasi)
+- LinkedIn: [https://www.linkedin.com/in/mohammad-ghiasi-2383432bb/ ](https://www.linkedin.com/in/mohammad-ghiasi-2383432bb/)
+
+  
 Feel free to reach out if you'd like to collaborate on a project or just chat about all things frontend development! 🚀
