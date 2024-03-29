@@ -7,9 +7,11 @@ I love turning ideas into reality through code and design. With a keen eye for d
 - HTML5
 - CSS3
 - JavaScript
+- typescript
 - React.js
 - next.js
 - Responsive Design
+- ...
 
 
 ## What I Bring to the Table
