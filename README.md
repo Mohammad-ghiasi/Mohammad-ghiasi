@@ -20,6 +20,7 @@ I love turning ideas into reality through code and design. With a keen eye for d
 - Passion: I am deeply passionate about frontend development and am always eager to learn and improve.
   
 ### Let's Connect
+- Gmail: mohammadghiasi005@gmail.com
 - GitHub: [https://github.com/Mohammad-ghiasi](https://github.com/Mohammad-ghiasi)
 - LinkedIn: [https://www.linkedin.com/in/mohammad-ghiasi-2383432bb/](https://www.linkedin.com/in/mohammad-ghiasi-2383432bb/)
 
